@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712014397232",
+    "project_id": "ra-animales",
+    "storage_bucket": "ra-animales.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712014397232:android:02f2852c24cd1b0fb812f5",
+        "android_client_info": {
+          "package_name": "com.prueba.unityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApF-rGRJLnHCPoJ4Wa0c0LaXcN7FeW5AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
