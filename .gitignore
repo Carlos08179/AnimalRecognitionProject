@@ -1,0 +1,17 @@
+# Carpetas innecesarias de Unity
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# Archivos grandes
+*.mp4
+*.avi
+*.mov
+*.fbx
+*.obj
+*.blend
+*.psd
+*.wav
+*.zip
+*.rar
