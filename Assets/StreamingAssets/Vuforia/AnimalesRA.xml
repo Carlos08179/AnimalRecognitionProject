@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ballena-azul" size="1.000000 0.750000" />
+    <ImageTarget name="tiburongrisdearrecife" size="1.000000 0.714912" />
+    <ImageTarget name="ciervodeeld" size="1.000000 0.752000" />
+    <ImageTarget name="oso_pardo_iberico_3383_2_orig" size="1.000000 0.772675" />
+  </Tracking>
+</QCARConfig>
